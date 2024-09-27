@@ -80,3 +80,9 @@ In this step, all the information gathered so far—identifiers, labels, extract
 Objective: Output the original image along with a table containing all mapped data for each object in the master image.
 
 The final step is to generate a comprehensive output that includes both the original image and a summary table of all the extracted and mapped data. The image is annotated with labels and bounding boxes around each object, and a table is created that details all the information about each object. This table might include the object’s ID, label, confidence score, extracted text, and a summary of attributes. The result is a complete visual and textual representation of the analyzed image.
+
+
+## final step
+
+command:
+run: streamlit run .\python_Image_segmentation.py
