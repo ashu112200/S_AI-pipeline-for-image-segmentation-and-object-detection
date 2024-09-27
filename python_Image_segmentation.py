@@ -1,11 +1,14 @@
+import os
+
+# os.system("pip install torch torchvision opencv-python ultralytics easyocr streamlit")
+
 import torch
 import torchvision
 from PIL import Image
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 from torchvision.transforms import functional as F
-import random
+# import random
 import cv2
-import os
 import json
 from ultralytics import YOLO
 import pandas as pd
