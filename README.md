@@ -1,4 +1,3 @@
-# ashish-kumar-singh-wasserstoff-AiInternTask
 
 ## Overview
 This project demonstrates an end-to-end AI pipeline for image segmentation and object analysis. The pipeline takes an input image, segments objects within the image, identifies each object, extracts relevant text/data, summarizes attributes, and finally, generates an annotated output image along with a summary table of all extracted data.
